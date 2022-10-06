@@ -34,7 +34,7 @@ function initAnimaScroll() {
         }
       });
     }
-
+    animaScroll();
     window.addEventListener("scroll", animaScroll);
   }
 }
